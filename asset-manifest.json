@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "http://192.168.1.4:3000/static/css/main.deb3da47.css",
+    "main.js": "http://192.168.1.4:3000/static/js/main.5c2d10e3.js",
+    "static/js/787.cda612ba.chunk.js": "http://192.168.1.4:3000/static/js/787.cda612ba.chunk.js",
+    "index.html": "http://192.168.1.4:3000/index.html",
+    "main.deb3da47.css.map": "http://192.168.1.4:3000/static/css/main.deb3da47.css.map",
+    "main.5c2d10e3.js.map": "http://192.168.1.4:3000/static/js/main.5c2d10e3.js.map",
+    "787.cda612ba.chunk.js.map": "http://192.168.1.4:3000/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb3da47.css",
+    "static/js/main.5c2d10e3.js"
+  ]
+}
